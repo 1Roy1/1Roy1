@@ -1,5 +1,6 @@
 ### Hi, I'm Roy 👋
-![giphy (1)](https://user-images.githubusercontent.com/100391358/166411785-ec85f38f-df5a-4c36-bf51-aee23b1b8877.gif)
+
+![giphy (2)](https://user-images.githubusercontent.com/100391358/166412071-b8c5f8f7-0092-44af-ab19-1670c11d815f.gif)
 
 
 Here are some ideas to get you started:
