@@ -1,4 +1,6 @@
 ### Hi, I'm Roy 👋
+![giphy (1)](https://user-images.githubusercontent.com/100391358/166411785-ec85f38f-df5a-4c36-bf51-aee23b1b8877.gif)
+
 
 Here are some ideas to get you started:
 
