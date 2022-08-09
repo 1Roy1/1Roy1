@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
 - @Abelillo14K
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="bf4b1e91-8651-46ee-9536-4a45b221286e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
