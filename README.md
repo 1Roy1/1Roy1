@@ -12,7 +12,6 @@ INSIGNIAS OBTENIDAS:                                                            
 # AboutMe Roy
  ** Soy Roí Eleazar Rosales Arriola, actualmente estudio la carrera de ingenieria en informatica y sistemas en la Universidad Rafael Landivar ** :innocent:.
 
-# Cosas que me gustaron a lo largo de la carrera
 
 ## Programación en Python
 Me gusta mucho el lenguage de python por los siguientes caracteristicas :zany_face: : 
@@ -36,8 +35,6 @@ if b > a:
 ```
 print("Hello, World!") 
 
-###### Mención a un compañero
-@Abelillo14K Este pana es un master, todo un capo el, escribanle al priv para que les realice transes :rofl:
 
 ## Mis hobbies
 -  Jugar videojuegos
@@ -55,5 +52,5 @@ print("Hello, World!")
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
-- @Abelillo14K
+
 
