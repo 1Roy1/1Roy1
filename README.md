@@ -2,11 +2,12 @@
 
 ![giphy (2)](https://user-images.githubusercontent.com/100391358/166412071-b8c5f8f7-0092-44af-ab19-1670c11d815f.gif)
 
-INSIGNIAS OBTENIDAS:                       :3
+INSIGNIAS OBTENIDAS:                                                                     :3
+
+
 ![introduction-to-cybersecurity (2)](https://user-images.githubusercontent.com/100391358/183546137-652f63ec-15fb-417c-ab80-1f228fc32a57.png)
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
