@@ -2,6 +2,7 @@
 
 ![giphy (2)](https://user-images.githubusercontent.com/100391358/166412071-b8c5f8f7-0092-44af-ab19-1670c11d815f.gif)
 
+![introduction-to-cybersecurity](https://user-images.githubusercontent.com/100391358/183545447-d718f25e-636d-4563-bc18-89d45d522842.png)
 
 Here are some ideas to get you started:
 
