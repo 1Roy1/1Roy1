@@ -5,9 +5,8 @@
 INSIGNIAS OBTENIDAS:                                                                     :3
 
 
-![introduction-to-cybersecurity (2)](https://user-images.githubusercontent.com/100391358/183546137-652f63ec-15fb-417c-ab80-1f228fc32a57.png)
+![introduction-to-cybersecurity (2)](https://user-images.githubusercontent.com/100391358/183546137-652f63ec-15fb-417c-ab80-1f228fc32a57.png)         ![cybersecurity-essentials](https://user-images.githubusercontent.com/100391358/224505727-2f44db82-5e23-4809-aaf9-432181cf9ee7.png)
 
-![cybersecurity-essentials](https://user-images.githubusercontent.com/100391358/224505326-b5e37f73-2cb9-446c-a8bb-f61889ed0161.png)
 
 
 # AboutMe Roy
