@@ -115,7 +115,7 @@ Soy **Roí Eleazar Rosales Arriola**, pero todos me dicen **Rey**. Soy **ingenie
 </p>
 
 <p align="center">
-  <a href="https://youtu.be/aGSKrC7dGcY?t=55"><img src="https://img.shields.io/badge/Escuchar_la_mejor_parte-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=12002b" alt="Escuchar la mejor parte en YouTube" /></a>
+  <a href="https://youtu.be/aGSKrC7dGcY?t=50"><img src="https://img.shields.io/badge/Escuchar_la_mejor_parte-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=12002b" alt="Escuchar la mejor parte en YouTube" /></a>
   <a href="https://open.spotify.com/search/Enjoy%20the%20Silence%20Depeche%20Mode"><img src="https://img.shields.io/badge/Escuchar_en-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=12002b" alt="Escuchar en Spotify" /></a>
 </p>
 
