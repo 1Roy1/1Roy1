@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/Ingeniero-Inform%C3%A1tica_y_Sistemas-ff4fa3?style=for-the-badge&labelColor=12002b" alt="Ingeniero en Informática y Sistemas" />
   <img src="https://img.shields.io/badge/Universidad-Rafael_Land%C3%ADvar-c792ea?style=for-the-badge&labelColor=12002b" alt="Universidad Rafael Landívar" />
   <img src="https://img.shields.io/badge/Cisco-Networking_Academy-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=12002b" alt="Cisco Networking Academy" />
+  <a href="https://github.com/KaidenGT"><img src="https://img.shields.io/badge/Trabajo_en-Kaiden-ff4fa3?style=for-the-badge&logo=github&logoColor=white&labelColor=12002b" alt="Trabajo en Kaiden" /></a>
   <img src="https://img.shields.io/badge/IA-Claude_Code_%C2%B7_Codex-ff8c42?style=for-the-badge&labelColor=12002b" alt="Desarrollo con agentes de IA" />
 </p>
 
@@ -99,6 +100,24 @@ Soy **Roí Eleazar Rosales Arriola**, pero todos me dicen **Rey**. Soy **ingenie
   <img src="https://raw.githubusercontent.com/1Roy1/1Roy1/output/snake-dark.svg" width="100%" alt="Serpiente que recorre mis contribuciones" />
 </p>
 <p align="center"><sub>Tarjetas y serpiente generadas cada día por GitHub Actions en este mismo repositorio.</sub></p>
+
+---
+
+### 💼 Actividad profesional
+
+<p align="center">
+  Trabajo en <a href="https://github.com/KaidenGT"><b>Kaiden</b></a>, donde mi actividad está en la cuenta <a href="https://github.com/roi-kaiden"><b>@roi-kaiden</b></a>. Como son proyectos privados, solo se ve cuántas contribuciones hago, nunca el código.
+</p>
+<p align="center">
+  <a href="https://github.com/roi-kaiden"><img src="https://img.shields.io/badge/Perfil_de_trabajo-@roi--kaiden-c792ea?style=for-the-badge&logo=github&logoColor=white&labelColor=12002b" alt="Perfil de trabajo @roi-kaiden" /></a>
+  <a href="https://github.com/KaidenGT"><img src="https://img.shields.io/badge/Organizaci%C3%B3n-KaidenGT-ff4fa3?style=for-the-badge&logo=github&logoColor=white&labelColor=12002b" alt="Organización KaidenGT" /></a>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=roi-kaiden&hide_border=true&background=0D1117&ring=C792EA&fire=C792EA&currStreakLabel=C792EA&sideLabels=FF4FA3&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=30363D&locale=es" alt="Racha de contribuciones en @roi-kaiden" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/1Roy1/1Roy1/output/snake-work-dark.svg" width="100%" alt="Serpiente que recorre mis contribuciones de trabajo" />
+</p>
 
 ---
 

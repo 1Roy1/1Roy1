@@ -23,6 +23,13 @@ jobs:
           outputs: |
             dist/snake-dark.svg?palette=github-dark&color_snake=#ff4fa3&color_dots=#161b22,#3b0d4f,#5b0e7a,#a3207a,#ff4fa3
 
+      - name: Dibujar la serpiente de la cuenta de trabajo
+        uses: Platane/snk@v3
+        with:
+          github_user_name: roi-kaiden
+          outputs: |
+            dist/snake-work-dark.svg?palette=github-dark&color_snake=#c792ea&color_dots=#161b22,#3b0d4f,#5b0e7a,#a3207a,#ff4fa3
+
       - name: Publicar en la rama output
         uses: crazy-max/ghaction-github-pages@v4
         with:
