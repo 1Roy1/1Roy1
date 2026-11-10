@@ -133,6 +133,7 @@ Soy **Roí Eleazar Rosales Arriola**, pero todos me dicen **Rey**. Soy **ingenie
 
 <p align="center">
   <a href="https://www.instagram.com/eler_11/"><img src="https://img.shields.io/badge/Instagram-@eler__11-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=12002b" alt="Instagram @eler_11" /></a>
+  <a href="mailto:rosalesroy11@gmail.com"><img src="https://img.shields.io/badge/Correo-rosalesroy11@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=12002b" alt="Correo rosalesroy11@gmail.com" /></a>
   <a href="https://github.com/1Roy1"><img src="https://img.shields.io/badge/GitHub-1Roy1-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=12002b" alt="GitHub 1Roy1" /></a>
 </p>
 
