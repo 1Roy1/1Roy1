@@ -11,6 +11,11 @@ on:
 permissions:
   contents: write
 
+# Two runs writing at once reject each other; the second one waits.
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+
 jobs:
   generate:
     runs-on: ubuntu-latest
